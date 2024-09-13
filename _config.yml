@@ -2,8 +2,6 @@
 # Used for Sitemap.xml and your RSS feed
 url: https://kojiwoji.github.io/test-github/
 
-include: docs/
-
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
@@ -13,7 +11,6 @@ exclude:
   - LICENSE
   - README.md
   - screenshot.png
-  - docs/
 
 plugins:
   - jekyll-paginate
