@@ -2,7 +2,7 @@
 # Used for Sitemap.xml and your RSS feed
 url: https://kojiwoji.github.io/test-github/
 
-include: icon
+include: docs/
 
 # Exclude these files from production site
 exclude:
